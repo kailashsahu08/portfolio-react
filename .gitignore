@@ -38,7 +38,7 @@ Thumbs.db
 coverage/
 
 # Lovable
-.lovable/
+# .lovable/
 
 # TanStack Router generated files
 .tanstack/
