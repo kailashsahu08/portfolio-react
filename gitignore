@@ -11,9 +11,10 @@ node_modules
 dist
 dist-ssr
 .output
+.nitro
+.netlify
 .vinxi
 .tanstack/**
-.nitro
 *.local
 
 # Wrangler / Cloudflare
